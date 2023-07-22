@@ -7,5 +7,6 @@ Portofilio creado para la presentación del trabajo final del ARGENTINA PROGRAMA
 
 # VISUALIZACION
 
-![portfolio](https://user-images.githubusercontent.com/97200944/202497278-b12188ae-e84a-4d99-b4d0-1f98580bf259.jpg)
+![proyecto web_PORTFOLIO_GDN DEV](https://github.com/GimeDiStefanoN/PortfolioFrontEndEstatico/assets/97200944/09054dcc-5a6d-4cb0-97e1-7270c08c5885)
+
 
