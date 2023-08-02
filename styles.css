@@ -445,6 +445,17 @@ background-color: transparent;
 }
 
 /* SECCION RESPONSIVE */
+
+/* Estilos generales para dispositivos móviles */
+@media screen and (max-width: 767px) {
+  /* Ajusta los estilos para dispositivos móviles aquí */
+}
+
+/* Estilos para tablets (768px - 1023px) */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* Ajusta los estilos específicos para tablets aquí, si es necesario */
+}
+
 @media screen and (max-width:1134px){
 
   #nav ul{display: none;}
